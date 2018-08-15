@@ -4,7 +4,7 @@
 
 <h1> 물리같은거 하지말고 지과해 지과 </h1>
 
-<p2> 2.사진의 탐사선은 보이저호이다 보이저호에 대한 설명으로 옳은것은? </p2>
+<p2> 3.사진의 탐사선은 보이저호이다 보이저호에 대한 설명으로 옳은것은? </p2>
 
 <img width="300" height="235" class="irc_mi" style="margin-top: 
 59px;" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)"
