@@ -40,13 +40,13 @@
 <table>
 </table>
 
-<input type="button" value="1" onclick="alert('P')">&nbsp&nbsp
-<input type="button" value="2" onclick="alert('F')">&nbsp&nbsp
-<input type="button" value="3" onclick="alert('P')">&nbsp&nbsp
-<input type="button" value="4" onclick="alert('P')">&nbsp&nbsp
+<input type="button" value="1" onclick="alert('P')"> &nbsp &nbsp
+<input type="button" value="2" onclick="alert('F')"> &nbsp &nbsp
+<input type="button" value="3" onclick="alert('P')"> &nbsp &nbsp
+<input type="button" value="4" onclick="alert('P')"> &nbsp &nbsp
 <input type="button" value="5" onclick="alert('P')">
 <br>
 <br>
-<a href="https://github.com/defaultgroup/Number2"> <button> 다음문제로! </button></a>
-<a href="https://defaultgroup.github.io/START/"> <button> 처음으로! </button></a>
+<a href="https://github.com/defaultgroup/Number2"> <button> 다음문제로! </button></a> &nbsp
+<a href="https://defaultgroup.github.io/START/"> <button> 처음으로! </button></a> &nbsp
 <a href="https://defaultgroup.github.io/END/"> <button> 최종정답으로! </button></a>
