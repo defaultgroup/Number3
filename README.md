@@ -47,6 +47,6 @@
 <input type="button" value="5" onclick="alert('R')">
 <br>
 <br>
-<a href="https://github.com/defaultgroup/Number4"> <button> 다음문제로! </button></a>
+<a href="https://defaultgroup.github.io/Number4/"> <button> 다음문제로! </button></a>
 <a href="https://defaultgroup.github.io/START/"> <button> 처음으로! </button></a>
 <a href="https://defaultgroup.github.io/END/"> <button> 최종정답으로! </button></a>
