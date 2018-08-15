@@ -42,9 +42,9 @@
 
 <input type="button" value="1" onclick="alert('P')">
 <input type="button" value="2" onclick="alert('F')">
-<input type="button" value="3" onclick="alert('P')">
-<input type="button" value="4" onclick="alert('P')">
-<input type="button" value="5" onclick="alert('P')">
+<input type="button" value="3" onclick="alert('H')">
+<input type="button" value="4" onclick="alert('Y')">
+<input type="button" value="5" onclick="alert('R')">
 <br>
 <br>
 <a href="https://github.com/defaultgroup/Number4"> <button> 다음문제로! </button></a>
